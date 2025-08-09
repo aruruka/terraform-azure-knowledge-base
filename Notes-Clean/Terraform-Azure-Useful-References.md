@@ -1,0 +1,6 @@
+- [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/overview/introduction/)
+- [terraform-azurerm-avm-res-operationalinsights-workspace](https://github.com/Azure/terraform-azurerm-avm-res-operationalinsights-workspace)
+- [Abbreviation recommendations for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
+- [Design a Log Analytics workspace architecture](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design)
+- [Best practices for Azure Monitor Logs](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/best-practices-logs)
+- [Generate Terraform on Azure configurations using Copilot](https://learn.microsoft.com/en-us/azure/developer/terraform/terraform-handler-for-azure-copilot/generate-terraform-configuration-using-copilot)
