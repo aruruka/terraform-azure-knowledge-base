@@ -53,9 +53,10 @@ terraform-knowledge-base/
 - [x] Section 2: Core Concepts
 - [x] Section 3: Environment Setup
 - [x] Section 4: Core Functionality
-- [ ] Section 5: Advanced Topics
-- [ ] Section 6: Best Practices
-- [ ] Section 7: Reference
+- [x] Section 5: Advanced Topics
+- [x] Section 6: Best Practices
+- [x] Section 7: Reference
+- [x] Section 8: Automating Identity & Access Management on Entra ID
 
 ## 版本说明
 当前版本基于课程文稿构建，截图内容将在后续版本中整合。
