@@ -1,0 +1,4 @@
+// example dev.tfvars - do NOT commit real secrets. Fill values locally before running.
+remote_user_upns = [
+  "synthetic_live.com#EXT#@synthetic_live.onmicrosoft.com"
+]
