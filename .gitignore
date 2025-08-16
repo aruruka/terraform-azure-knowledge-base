@@ -11,6 +11,7 @@ terraform.tfvars
 **/env/*.tfvars
 !**/env/*.tfvars.example
 !**/*.tfvars.example
+!**/env/
 
 # Local override files
 override.tf
@@ -39,7 +40,7 @@ override.tf.json
 __pycache__/
 *.py[cod]
 *$py.class
-env/
+# (do not globally ignore nested env/ directories so we can track env/*.tfvars.example)
 venv/
 .venv/
 venv.bak/
