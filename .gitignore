@@ -7,7 +7,9 @@
 crash.log
 terraform.tfvars
 *.tfvars
+# ignore tfvars inside env folders but allow example files
 **/env/*.tfvars
+!**/env/*.tfvars.example
 !**/*.tfvars.example
 
 # Local override files
