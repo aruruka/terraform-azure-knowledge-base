@@ -47,6 +47,22 @@ terraform-knowledge-base/
 - 术语表
 - 扩展资源
 
+### 7. [网络与计算高级实践](07-网络与计算高级实践/README.md)
+- Azure网络核心概念
+- 虚拟机部署与连接
+- Terraform高级技巧
+- 课程实验
+
+### 8. [身份与访问管理](08-身份与访问管理/README.md)
+- Entra ID身份认证
+- 角色与权限管理
+- 安全最佳实践
+
+### 9. [AzAPI Provider](09-AzAPI-Provider/README.md)
+- AzAPI Provider介绍
+- 与传统Azure Provider对比
+- 高级资源管理
+
 ## 学习进度
 
 - [x] Section 1: Introduction
@@ -57,6 +73,7 @@ terraform-knowledge-base/
 - [x] Section 6: Best Practices
 - [x] Section 7: Reference
 - [x] Section 8: Automating Identity & Access Management on Entra ID
+- [x] Section 9: AzAPI Provider
 
 ## 版本说明
 当前版本基于课程文稿构建，截图内容将在后续版本中整合。
